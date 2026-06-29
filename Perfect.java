@@ -1,0 +1,1 @@
+//28 is a perfect number because its proper divisors are  1 + 2 + 4 + 7 + 14 = 28
